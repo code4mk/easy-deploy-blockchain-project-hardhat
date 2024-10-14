@@ -1,5 +1,5 @@
 {
-  "name": "geni-sys-rec",
+  "name": "tax-record-smart-contract",
   "version": "1.0.0",
   "description": "Tax record system on Ethereum",
   "main": "index.js",
